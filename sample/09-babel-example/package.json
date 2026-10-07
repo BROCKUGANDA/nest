@@ -16,14 +16,14 @@
     "@nestjs/common": "11.1.4",
     "@nestjs/core": "11.1.4",
     "@nestjs/platform-express": "11.1.4",
-    "@nestjs/microservices": "11.1.4",
+    "@nestjs/microservices": "11.2.5",
     "@nestjs/websockets": "11.1.4",
     "reflect-metadata": "0.2.2",
     "rxjs": "7.8.2"
   },
   "devDependencies": {
     "@babel/cli": "7.28.0",
-    "@babel/core": "7.28.0",
+    "@babel/core": "8.0.6",
     "@babel/node": "7.28.0",
     "@babel/plugin-proposal-decorators": "7.28.0",
     "@babel/plugin-transform-runtime": "7.28.0",
